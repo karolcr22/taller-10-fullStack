@@ -30,7 +30,7 @@
 
 <h2>Punto 9:</h2>
 <img src="./public/images/punto-9.png" alt="calculo-multiplicacion">
-<img src="./public/images/resultado-punto-9.png" alt="tabla-multiplicar">
+<img src="./public/images/reultado-punto-9.png" alt="tabla-multiplicar">
 
 <h2>Punto 10:</h2>
 <img src="./public/images/punto-10.png" alt="numero-pares-0-100">
